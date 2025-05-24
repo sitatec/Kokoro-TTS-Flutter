@@ -2,7 +2,7 @@
 ///
 /// This is a Flutter implementation of the Kokoro-TTS model, focusing on
 /// multi-language text-to-speech capabilities.
-library kokoro_tts_flutter;
+library;
 
 export 'src/kokoro.dart';
 export 'src/config.dart';

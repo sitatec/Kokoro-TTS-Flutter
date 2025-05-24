@@ -133,7 +133,7 @@ void main() {
   test('Generate TTS for foreign names.', () async {
     // 1. Example user input
     const String userInput =
-        'Speak some chinese names like Wang, Li, Zhang, and Zhao. Also speak some japanese names like Tanaka, Yamada, and Nakamura. Also speak some korean names like Kim, Lee, Yoon, Jung, and Park.';
+        'Speak some chinese names like Wang, Li, Zhang, and Zhao. Also speak some japanese names like Tanaka, Yamada, and Nakamura. Also speak some korean names like Kim, Lee, Yoon, Jung, and Park. Now speak some numbers like 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000,';
 
     developer.log('TEST INPUT: "$userInput"', name: 'kokoro_tts_flutter');
 
