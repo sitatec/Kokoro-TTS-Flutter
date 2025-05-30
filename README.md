@@ -87,5 +87,9 @@ void main() async {
 }
 ```
 
+## Troubleshootings
+Additional configurations may be required for certain platforms.
+Check the [troubleshooting section](https://github.com/masicai/flutter_onnxruntime/blob/main/doc/troubleshooting.md) of flutter_onnxruntime library for the details.
+
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
